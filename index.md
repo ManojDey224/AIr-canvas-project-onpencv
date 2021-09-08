@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hey 👋, Buddy I'm Manoj dey</h1>
+<h3 align="center">A Self learner coder who is passionate about AI,ML</h3>
 
-You can use the [editor on GitHub](https://github.com/ManojDey224/ManojDey224/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojdey224" alt="manojdey224" /></a> </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🌱 I’m currently learning **tenserflow**
 
-### Markdown
+- 👨‍💻 All of my projects are available at [https://github.com/account](https://github.com/account)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 💬 Ask me about **Anything**
 
-```markdown
-Syntax highlighted code block
+- 📫 How to reach me **depritam991@gmail.com**
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@manojde76223929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manojde76223929" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/manoj-dey-014055201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manoj-dey-014055201" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/manoj224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manoj224" height="30" width="40" /></a>
+<a href="https://fb.com/প্রীতম দে" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="প্রীতম দে" height="30" width="40" /></a>
+<a href="https://instagram.com/pritamdey56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritamdey56" height="30" width="40" /></a>
+</p>
 
-- Bulleted
-- List
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-1. Numbered
-2. List
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojdey224&show_icons=true&locale=en&layout=compact" alt="manojdey224" /></p>
 
-**Bold** and _Italic_ and `Code` text
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojdey224&show_icons=true&locale=en" alt="manojdey224" /></p>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManojDey224/ManojDey224/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojdey224&" alt="manojdey224" /></p>
